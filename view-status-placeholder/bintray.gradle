@@ -1,6 +1,6 @@
 apply plugin: 'com.jfrog.bintray'
 
-version = '1.0.5'
+version = '1.0.0'
 
 def props = new Properties()
 def inputStream = project.rootProject.file('local.properties').newDataInputStream()
@@ -22,11 +22,11 @@ bintray {
 
     pkg {
         repo = 'maven'
-        name = 'Appcompat-DialogFragment'
+        name = 'ViewStatus-Placeholder'
         configurations = ['archives']
         desc = 'An android library.'
-        websiteUrl = 'https://github.com/WxSmile/AppCompatDialogFragment'
-        vcsUrl = 'https://github.com/WxSmile/AppCompatDialogFragment.git'
+        websiteUrl = 'https://github.com/WxSmile/ViewStatus-Placeholder'
+        vcsUrl = 'https://github.com/WxSmile/ViewStatus-Placeholder.git'
         licenses = ["Apache-2.0"]
         publish = true
         publicDownloadNumbers = true

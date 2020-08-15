@@ -35,5 +35,4 @@ class PlaceholderModule {
     fun provideErrorPlaceholder(): PlaceholderFragment {
         return ErrorFragment()
     }
-
 }

@@ -11,7 +11,7 @@ install {
                 artifactId 'view-status-placeholder'
                 name 'ViewStatus-Placeholder'
                 description 'An android library.'
-                url 'https://github.com/WxSmile/AppCompatDialogFragment'
+                url 'https://github.com/WxSmile/ViewStatus-Placeholder.git'
 
                 licenses {
                     license {
@@ -29,9 +29,9 @@ install {
                 }
 
                 scm {
-                    connection 'https://github.com/WxSmile/AppCompatDialogFragment.git'
-                    developerConnection 'https://github.com/WxSmile/AppCompatDialogFragment.git'
-                    url 'https://github.com/WxSmile/AppCompatDialogFragment'
+                    connection 'https://github.com/WxSmile/ViewStatus-Placeholder.git'
+                    developerConnection 'https://github.com/WxSmile/ViewStatus-Placeholder.git'
+                    url 'https://github.com/WxSmile/ViewStatus-Placeholder'
                 }
             }
         }

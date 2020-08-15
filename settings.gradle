@@ -1,3 +1,3 @@
 include ':sample'
-include ':view-status-placeholder-3'
+include ':view-status-placeholder'
 rootProject.name = "StatusPlaceholder"
